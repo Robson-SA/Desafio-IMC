@@ -1,11 +1,11 @@
-# DESAFIO 1-1, LAUNCHBASE BOOTCAMP ROCKETSEAT
+# DESAFIO 1-1 LAUNCHBASE BOOTCAMP ROCKETSEAT
  
 Objetivo do desafio é fixa os seguintes aspectos estudados:
  
--[x] Variáveis 
--[x] Constantes
--[x] Operadores
- 
+- [x] Variáveis 
+- [x] Constantes
+- [x] Operadores
+
 # PROBLEMÁTICA DO DESAFIO
  
 Cálculo de IMC
@@ -16,8 +16,8 @@ Criar um programa para calcular o IMC e nível de obesidade de uma pessoa.
  
 Apesar de se um desafio relativamente simples, põem em prática questões importantes dentro da programação como:
  
--[x] Incentivo à pesquisa.
--[x] Criatividade e originalidade.
+- [x] Incentivo à pesquisa.
+- [x] Criatividade e originalidade.
  
 # OBSERVAÇÕES
  
